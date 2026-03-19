@@ -87,6 +87,7 @@ frida -H 127.0.0.1:44444 -U -n <target_app>
 ```
 
 ---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/73319e7c-40e0-4e92-98d1-1326c2e7671b" />
 
 
 ## ⚠️ Disclaimer
