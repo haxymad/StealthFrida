@@ -59,8 +59,9 @@ chmod +x build.sh
 
 ---
 
-Find frida-python frida-17.8.2-cp37-abi3-linux_x86_64.whl and install it 
-find frida-server and push it to android 
+**1.Find frida-python "frida-17.8.2-cp37-abi3-linux_x86_64.whl" and install it** 
+---
+**2.find frida-server and push it to android **
 ## 📱 Usage
 
 ### ▶️ Start Frida Server on Device
