@@ -3,12 +3,7 @@ frida/
 build/
 deps/
 
-# Binaries
-frida-server
-*.so
-*.o
-*.a
-*.whl
+
 
 # Temp
 tmp/

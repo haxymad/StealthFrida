@@ -1,0 +1,4 @@
+*.so filter=lfs diff=lfs merge=lfs -text
+*.whl filter=lfs diff=lfs merge=lfs -text
+frida-server filter=lfs diff=lfs merge=lfs -text
+frida/** filter=lfs diff=lfs merge=lfs -text
