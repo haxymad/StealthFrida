@@ -1,0 +1,19 @@
+# Build stuff
+frida/
+build/
+deps/
+
+# Binaries
+frida-server
+*.so
+*.o
+*.a
+*.whl
+
+# Temp
+tmp/
+*.log
+
+# Python
+__pycache__/
+*.pyc
